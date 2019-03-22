@@ -1,9 +1,11 @@
-# Welcome to my universe.
+English |　[简体中文](https://github.com/CHENXINNN/CHENXINNN.github.io/blob/master/README.CN.md)
 
-### 一些小玩意儿：
+# Welcome to My Universe.
 
-### 原生 JS + CSS + HTML 部分
+### Some Lovely Demo：
 
-- [打鼓小游戏](https://chenxinnn.github.io/Drum-kit/)
-- [时钟](https://chenxinnn.github.io/Clock/)
-- [小试 CSS 变量](https://s.codepen.io/chenxinnn/debug/ywQZbj/mVAbGpjxPQGk)
+### Vanilla JS + CSS + HTML:
+
+- [Drum Kit](https://chenxinnn.github.io/Drum-kit/)
+- [JS and CSS Clock](https://chenxinnn.github.io/Clock/)
+- [CSS Variables](https://s.codepen.io/chenxinnn/debug/ywQZbj/mVAbGpjxPQGk)
