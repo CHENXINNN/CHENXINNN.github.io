@@ -2,7 +2,7 @@ English |　[简体中文](https://github.com/CHENXINNN/CHENXINNN.github.io/blob
 
 # Welcome to My Universe.
 
-### Some Lovely Demo：
+### Some Lovely Demos：
 
 ### Vanilla JS + CSS + HTML Part:
 
