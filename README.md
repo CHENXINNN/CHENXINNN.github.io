@@ -6,3 +6,4 @@
 
 - [打鼓小游戏](https://chenxinnn.github.io/Drum-kit/)
 - [时钟](https://chenxinnn.github.io/Clock/)
+- [小试CSS变量](https://s.codepen.io/chenxinnn/debug/ywQZbj/mVAbGpjxPQGk)
