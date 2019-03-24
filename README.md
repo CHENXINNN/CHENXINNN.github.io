@@ -9,3 +9,4 @@ English |　[简体中文](https://github.com/CHENXINNN/CHENXINNN.github.io/blob
 - [Drum Kit](https://chenxinnn.github.io/Drum-kit/)
 - [JS and CSS Clock](https://chenxinnn.github.io/Clock/)
 - [CSS Variables](https://s.codepen.io/chenxinnn/debug/ywQZbj/mVAbGpjxPQGk)
+- [Flex Panel Gallery](https://s.codepen.io/chenxinnn/debug/rRPGOG/RBrOJNwqvJNM)
