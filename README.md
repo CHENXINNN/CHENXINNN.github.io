@@ -11,3 +11,4 @@ English |　[简体中文](https://github.com/CHENXINNN/CHENXINNN.github.io/blob
 - [CSS Variables](https://s.codepen.io/chenxinnn/debug/ywQZbj/mVAbGpjxPQGk)
 - [Flex Panel Gallery](https://s.codepen.io/chenxinnn/debug/rRPGOG/RBrOJNwqvJNM)
 - [Search Bar](https://s.codepen.io/chenxinnn/debug/EMMVgM/LDAmdPjZVxRr)
+- [Fun with Canvas](https://s.codepen.io/chenxinnn/debug/ywWPRv/GnrnbNgaRWJr)
