@@ -10,3 +10,5 @@
 - [画廊 （Flex 版）](https://s.codepen.io/chenxinnn/debug/rRPGOG/RBrOJNwqvJNM)
 - [搜索栏](https://s.codepen.io/chenxinnn/debug/EMMVgM/LDAmdPjZVxRr)
 - [Canvas by \<canvas\>](https://s.codepen.io/chenxinnn/debug/ywWPRv/GnrnbNgaRWJr)
+- [使用 LocalStorage 的 TodoList](https://s.codepen.io/chenxinnn/debug/qwEzRO/bYrdyeqJNodA)
+- [动态字体阴影](https://s.codepen.io/chenxinnn/debug/WWbqOK/mVkbGpxagRbM)
